@@ -167,8 +167,9 @@ ul li a:hover {
   }
 
   .light {
-    --bg-url: url(./assets/assets/bgdesktop.jpg);
+     --bg-url: url(./assets/assets/bgdesktop.jpg);
   }
+
 }
 
 /*keyframes*/
